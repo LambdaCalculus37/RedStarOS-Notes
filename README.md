@@ -37,7 +37,7 @@ Red Star's case, being from such an oppresive, isolationist nation as North Kore
 means that the source code is not going to be for outside prying eyes, so I guess
 we won't be able too...
 
-![Found the source for the kernel never mind][/images/rs30-kernel-source.png]
+![Found the source for the kernel never mind](/images/rs30-kernel-source.png)
 
 Wait never mind the kernel source code is included as an optional installable
 package! We'll come back to this later!
