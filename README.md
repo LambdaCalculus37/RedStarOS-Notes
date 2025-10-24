@@ -40,4 +40,5 @@ we won't be able too...
 ![Found the source for the kernel never mind](/images/rs30-kernel-source.png)
 
 Wait never mind the kernel source code is included as an optional installable
-package! We'll come back to this later!
+package! I managed to unpack it and added the headers to another repo you can
+find here: [Red Star OS 3.0 Desktop Headers](https://github.com/LambdaCalculus37/RedStarOS30-kernel-src)
